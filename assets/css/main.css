@@ -2457,7 +2457,7 @@ input, select, textarea {
 				-webkit-transition: background-color 0.2s ease-in-out;
 				-ms-transition: background-color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out;
-				border-radius: 100%;
+				border-radius: 50%;
 				border: solid 1px rgba(224, 224, 224, 0.75);
 				display: inline-block;
 				height: 2em;
